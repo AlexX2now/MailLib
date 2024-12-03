@@ -1,0 +1,2 @@
+# MailLib
+Library for LaboratoryApp
