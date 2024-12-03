@@ -1,0 +1,6 @@
+C:\Users\usersql\Desktop\zooprk\Mail_LIB\bin\Debug\Mail_LIB.dll
+C:\Users\usersql\Desktop\zooprk\Mail_LIB\bin\Debug\Mail_LIB.pdb
+C:\Users\usersql\Desktop\zooprk\Mail_LIB\obj\Debug\Mail_LIB.csproj.AssemblyReference.cache
+C:\Users\usersql\Desktop\zooprk\Mail_LIB\obj\Debug\Mail_LIB.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Desktop\zooprk\Mail_LIB\obj\Debug\Mail_LIB.dll
+C:\Users\usersql\Desktop\zooprk\Mail_LIB\obj\Debug\Mail_LIB.pdb
